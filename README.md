@@ -4,6 +4,11 @@
 
 https://developer.android.com/tools/releases/platform-tools
 
+## Opening ADB in Command Prompt
+
+> Open the **platform-tools** after downloading and replace this in the top path and replace it with **cmd** and press enter
+
+![Double Click the area and delete it and type cmd and enter](https://i.imgur.com/2h1SCYJ.png)
 ### ADB Command to uninstall apps :
 
     adb shell pm uninstall --user 0 {package name}
